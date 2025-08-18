@@ -1,10 +1,17 @@
-# Zealous Swap Terms of Service
+# Zealous Swap & Fervent Finance Terms of Service
 
-**Last modified: June 23, 2025**
+*(“Zealous Ecosystem Terms of Service”)*
 
-These Terms of Service (the "Agreement") explain the terms and conditions by which you may access and use the Products provided by Zealous Swap (referred to herein as "Zealous Swap", "we", "our", or "us"). The Products shall include, but shall not necessarily be limited to, (a) https://app.zealousswap.com, a website-hosted user interface (the "Interface" or "App"), and (b) any other products and services that link to this Agreement (together with the Interface and App, the "Products"). You must read this Agreement carefully as it governs your use of the Products. By accessing or using any of the Products, you signify that you have read, understand, and agree to be bound by this Agreement in its entirety. If you do not agree, you are not authorized to access or use any of our Products and should not use our Products.
+**Last modified: June 23, 2025 (Updated to include Fervent Finance in August 2025)**
 
-To access or use any of our Products, you must be able to form a legally binding contract with us. Accordingly, you represent that you are at least the age of majority in your jurisdiction (e.g., 18 years old in the United States) and have the full right, power, and authority to enter into and comply with the terms and conditions of this Agreement on behalf of yourself and any company or legal entity for which you may access or use the Interface. If you are entering into this Agreement on behalf of an entity, you represent to us that you have the legal authority to bind such entity.
+These Terms of Service (the "Agreement") explain the terms and conditions by which you may access and use the Products provided within the **Zealous Ecosystem**, operated by Zealous Swap and Fervent Finance (referred to herein collectively as "Zealous Ecosystem", "we", "our", or "us"). The Products shall include, but shall not necessarily be limited to:
+(a) [https://app.zealousswap.com](https://app.zealousswap.com), a website-hosted DEX user interface,
+(b) [https://app.fervent.finance](https://app.fervent.finance), a website-hosted lending and borrowing interface, and
+(c) any other products and services that link to this Agreement (together, the "Products").
+
+You must read this Agreement carefully as it governs your use of the Products. By accessing or using any of the Products, you signify that you have read, understand, and agree to be bound by this Agreement in its entirety. If you do not agree, you are not authorized to access or use any of our Products and should not use our Products.
+
+To access or use any of our Products, you must be able to form a legally binding contract with us. Accordingly, you represent that you are at least the age of majority in your jurisdiction (e.g., 18 years old in the United States) and have the full right, power, and authority to enter into and comply with the terms and conditions of this Agreement on behalf of yourself and any company or legal entity for which you may access or use the Products. If you are entering into this Agreement on behalf of an entity, you represent to us that you have the legal authority to bind such entity.
 
 You further represent that you are not (a) the subject of economic or trade sanctions administered or enforced by any governmental authority or otherwise designated on any list of prohibited or restricted parties (including but not limited to the list maintained by the Office of Foreign Assets Control of the U.S. Department of the Treasury) or (b) a citizen, resident, or organized in a jurisdiction or territory that is the subject of comprehensive country-wide, territory-wide, or regional economic sanctions by the United States. Finally, you represent that your access and use of any of our Products will fully comply with all applicable laws and regulations, and that you will not access or use any of our Products to conduct, promote, or otherwise facilitate any illegal activity.
 
